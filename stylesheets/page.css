@@ -1,0 +1,28 @@
+header {
+	padding-top: 25px;
+	position: fixed;
+	text-align: left;
+	background: white;
+	z-index: 50;
+}
+
+header ul {
+	padding-top: 30px;
+}
+
+header li {
+	display: inline;
+	padding: 10px;
+}
+
+#headspace {
+	padding-top: 150px;
+}
+
+table {
+	width: 100%
+}
+
+img {
+     max-width: 200px;
+ }
